@@ -40,7 +40,6 @@ Running locally and deploying to other services is left as an exercise for the r
 
 ## TODO
 
-* Copy *Sinatra Example* from the [rack-openid readme](https://github.com/josh/rack-openid)
 * Deploy to Heroku
 * Force SSL in production
 * Set up database (Cloudant)
